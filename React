@@ -1,0 +1,23 @@
+React:
+-------------------
+React is the library.Frontend Devlopment
+SPA - single page apllication
+Load only once
+-ekkuva traffic undadu
+-user internet takkuva
+Basics:
+-------------
+-Components
+-Props
+-State
+--------------
+-components:2 types
+
+1.CBC:class base component:
+js class ni use chesi rendor chestamu.
+state inbuit untundi.state
+
+2.FBC:function base component:
+function use chesi rendor chestamu.
+state inbuit undadu. hooks ni use chestamu.
+
